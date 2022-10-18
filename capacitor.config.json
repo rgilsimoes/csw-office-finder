@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CSW Office Finder",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

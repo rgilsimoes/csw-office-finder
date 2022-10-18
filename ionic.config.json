@@ -1,0 +1,8 @@
+{
+  "name": "CSW Office Finder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "b818d7a5"
+}
