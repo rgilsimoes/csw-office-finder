@@ -32,7 +32,7 @@ const ExploreOffices: React.FC<officeProps> = ({ officeData, selected }) => {
       slider.current?.slideTo(selected - 1);
       slider.current?.update();
     }
-  }, [selected]);
+  }, [slider, selected]);
 
   return officeData.length ? (
     <IonSlides ref={slider} pager={true} options={slideOptions}>
