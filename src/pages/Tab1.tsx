@@ -89,7 +89,7 @@ const Tab1: React.FC = () => {
         <IonToolbar>
           <IonTitle>
             CSW Office Finder
-            <img src="./assets/titans_symbol.svg" className="titan_logo" />
+            <img src="./assets/titans_symbol.png" className="titan_logo" />
           </IonTitle>
         </IonToolbar>
       </IonHeader>

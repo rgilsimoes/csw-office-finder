@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "@capacitor/android": "4.3.0",
     "@capacitor/app": "4.0.1",
     "@capacitor/core": "4.3.0",
     "@capacitor/device": "4.0.1",
     "@capacitor/geolocation": "4.0.1",
     "@capacitor/haptics": "4.0.1",
+    "@capacitor/ios": "4.3.0",
     "@capacitor/keyboard": "4.0.1",
     "@capacitor/status-bar": "4.0.1",
     "@ionic/react": "^6.0.0",
@@ -72,7 +74,8 @@
   },
   "devDependencies": {
     "@capacitor/cli": "4.3.0",
-    "@ionic/cli": "6.20.3"
+    "@ionic/cli": "6.20.3",
+    "cordova-res": "0.15.4"
   },
   "description": "An Ionic project"
 }

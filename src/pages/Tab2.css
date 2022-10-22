@@ -1,10 +1,10 @@
-.md img {
+.md .the-titans {
   width: 99%;
   height: 99%;
   object-fit: cover;
 }
 
-.ios img {
+.ios .the-titans {
   width: 99%;
   height: 90%;
   object-fit: cover;
