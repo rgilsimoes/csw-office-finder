@@ -74,8 +74,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "4.3.0",
-    "@ionic/cli": "6.20.3",
     "cordova-res": "0.15.4"
   },
-  "description": "An Ionic project"
+  "description": "Demo App for Tech Day 2022"
 }

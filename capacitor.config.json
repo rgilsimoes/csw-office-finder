@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "CSW Office Finder",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "pt.rgilsimoes.csw_office_finder",
+  "appName": "CSW Office Finder",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }
