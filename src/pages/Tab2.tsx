@@ -16,6 +16,7 @@ const Tab2: React.FC = () => {
             <IonTitle size="large">About</IonTitle>
           </IonToolbar>
         </IonHeader>
+        <img src="./assets/about_titans.png" alt="Titans" />
         <About />
       </IonContent>
     </IonPage>

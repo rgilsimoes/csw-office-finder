@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Southampton",
+    "address": "4 Benham Road, Southampton Science Park, Chilworth Southampton SO16 7QJ United Kingdom",
+    "image": "southampton.png",
+    "location": {
+      "latitude": "40.198395450607485",
+      "longitude": "-8.513039530905715"
+    }
+  },
+  {
+    "name": "Derby",
+    "address": "Litchurch Plaza, Litchurch Ln Derby DE24 8AA United Kingdom",
+    "image": "derby.png",
+    "location": {
+      "latitude": "40.198395450607485",
+      "longitude": "-8.513039530905715"
+    }
+  },
+  {
+    "name": "Munique",
+    "address": "Agnes-Pockels-Bogen 1 80992 München Germany",
+    "image": "munique.png",
+    "location": {
+      "latitude": "48.17405837418849",
+      "longitude": "11.532224098122388"
+    }
+  },
+  {
+    "name": "Coimbra",
+    "address": "Parque Industrial de Taveiro, lote 49 3045-504 Coimbra Portugal",
+    "image": "coimbra.png",
+    "location": {
+      "latitude": "40.198395450607485",
+      "longitude": "-8.513039530905715"
+    }
+  },
+  {
+    "name": "Lisboa",
+    "address": "Rua Doutor Eduardo Neves, 9 1050-077 Lisboa Portugal",
+    "image": "lisboa.png",
+    "location": {
+      "latitude": "38.74411613863796",
+      "longitude": "-9.148503444432862"
+    }
+  },
+  {
+    "name": "Porto",
+    "address": "Largo Tito Fontes, nº 21 4000-124 Porto Portugal",
+    "image": "porto.png",
+    "location": {
+      "latitude": "41.152793010127425",
+      "longitude": "-8.608289999729877"
+    }
+  },
+  {
+    "name": "Tomar",
+    "address": "Instituto Politécnico de Tomar, Av. Dr. Aurélio Ribeiro 3 2300-313 Tomar Portugal",
+    "image": "tomar.png",
+    "location": {
+      "latitude": "39.600739745390136",
+      "longitude": "-8.38979721557962"
+    }
+  },
+  {
+    "name": "Vila Real",
+    "address": "Avenida Europa, nº 10 5000-703 Vila Real Portugal",
+    "image": "vila-real.png",
+    "location": {
+      "latitude": "41.29597598410666",
+      "longitude": "-7.73196464387349"
+    }
+  },
+  {
+    "name": "Viseu",
+    "address": "Edifício Vissaium XXI, 2º piso R. Dom João Crisóstomo Gomes de Almeida 3500-846 Viseu Portugal",
+    "image": "viseu.png",
+    "location": {
+      "latitude": "40.65332266541229",
+      "longitude": "-7.905413114812868"
+    }
+  }
+]

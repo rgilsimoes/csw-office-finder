@@ -5,6 +5,8 @@
   "dependencies": {
     "@capacitor/app": "4.0.1",
     "@capacitor/core": "4.3.0",
+    "@capacitor/device": "4.0.1",
+    "@capacitor/geolocation": "4.0.1",
     "@capacitor/haptics": "4.0.1",
     "@capacitor/keyboard": "4.0.1",
     "@capacitor/status-bar": "4.0.1",
@@ -19,6 +21,8 @@
     "@types/react-dom": "^18.0.6",
     "@types/react-router": "^5.1.11",
     "@types/react-router-dom": "^5.1.7",
+    "geolib": "3.3.3",
+    "geolocation": "0.2.0",
     "ionicons": "^6.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
