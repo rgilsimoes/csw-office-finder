@@ -1,18 +1,18 @@
-import { IonSlides, IonSlide, IonContent, IonLabel, IonImg } from '@ionic/react';
-import { GeolibInputCoordinates } from 'geolib/es/types';
+import { IonSlides, IonSlide } from '@ionic/react';
+import { createRef, useEffect } from 'react';
 import './ExploreOffices.css';
 
 const slideOptions = {
-  initialSlide: 1,
   speed: 400,
 };
 
 export interface OfficeLocation {
   latitude: number;
-  longintude: number;
+  longitude: number;
 }
 
 export interface Office {
+  id: number;
   name: string;
   address: string;
   image: string;
@@ -21,11 +21,21 @@ export interface Office {
 
 interface officeProps {
   officeData: Office[];
+  selected?: number;
 }
 
-const ExploreOffices: React.FC<officeProps> = ({ officeData }) => {
+const ExploreOffices: React.FC<officeProps> = ({ officeData, selected }) => {
+  const slider = createRef<HTMLIonSlidesElement>();
+
+  useEffect(() => {
+    if (selected) {
+      slider.current?.slideTo(selected - 1);
+      slider.current?.update();
+    }
+  }, [selected]);
+
   return officeData.length ? (
-    <IonSlides pager={true} options={slideOptions}>
+    <IonSlides ref={slider} pager={true} options={slideOptions}>
       {officeData.map((office: Office) => (
         <IonSlide key={office.name}>
           <img src={`./assets/offices/${office.image}`} alt={office.name} />

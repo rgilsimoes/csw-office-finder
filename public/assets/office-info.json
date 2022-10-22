@@ -1,83 +1,92 @@
 [
   {
+    "id": 1,
     "name": "Southampton",
     "address": "4 Benham Road, Southampton Science Park, Chilworth Southampton SO16 7QJ United Kingdom",
     "image": "southampton.png",
     "location": {
-      "latitude": "40.198395450607485",
-      "longitude": "-8.513039530905715"
+      "latitude": 50.961979972452276,
+      "longitude": -1.43066987296758
     }
   },
   {
+    "id": 2,
     "name": "Derby",
     "address": "Litchurch Plaza, Litchurch Ln Derby DE24 8AA United Kingdom",
     "image": "derby.png",
     "location": {
-      "latitude": "40.198395450607485",
-      "longitude": "-8.513039530905715"
+      "latitude": 52.9087986821548,
+      "longitude": -1.4617323465081935
     }
   },
   {
+    "id": 3,
     "name": "Munique",
     "address": "Agnes-Pockels-Bogen 1 80992 München Germany",
     "image": "munique.png",
     "location": {
-      "latitude": "48.17405837418849",
-      "longitude": "11.532224098122388"
+      "latitude": 48.17405837418849,
+      "longitude": 11.532224098122388
     }
   },
   {
+    "id": 4,
     "name": "Coimbra",
     "address": "Parque Industrial de Taveiro, lote 49 3045-504 Coimbra Portugal",
     "image": "coimbra.png",
     "location": {
-      "latitude": "40.198395450607485",
-      "longitude": "-8.513039530905715"
+      "latitude": 40.198395450607485,
+      "longitude": -8.513039530905715
     }
   },
   {
+    "id": 5,
     "name": "Lisboa",
     "address": "Rua Doutor Eduardo Neves, 9 1050-077 Lisboa Portugal",
     "image": "lisboa.png",
     "location": {
-      "latitude": "38.74411613863796",
-      "longitude": "-9.148503444432862"
+      "latitude": 38.74411613863796,
+      "longitude": -9.148503444432862
     }
   },
   {
+    "id": 6,
     "name": "Porto",
     "address": "Largo Tito Fontes, nº 21 4000-124 Porto Portugal",
     "image": "porto.png",
     "location": {
-      "latitude": "41.152793010127425",
-      "longitude": "-8.608289999729877"
+      "latitude": 41.152793010127425,
+      "longitude": -8.608289999729877
     }
   },
   {
+    "id": 7,
     "name": "Tomar",
     "address": "Instituto Politécnico de Tomar, Av. Dr. Aurélio Ribeiro 3 2300-313 Tomar Portugal",
     "image": "tomar.png",
     "location": {
-      "latitude": "39.600739745390136",
-      "longitude": "-8.38979721557962"
+      "latitude": 39.600739745390136,
+      "longitude": -8.38979721557962
     }
   },
   {
+    "id": 8,
     "name": "Vila Real",
     "address": "Avenida Europa, nº 10 5000-703 Vila Real Portugal",
     "image": "vila-real.png",
     "location": {
-      "latitude": "41.29597598410666",
-      "longitude": "-7.73196464387349"
+      "latitude": 41.29597598410666,
+      "longitude": -7.73196464387349
     }
   },
   {
+    "id": 9,
     "name": "Viseu",
     "address": "Edifício Vissaium XXI, 2º piso R. Dom João Crisóstomo Gomes de Almeida 3500-846 Viseu Portugal",
     "image": "viseu.png",
     "location": {
-      "latitude": "40.65332266541229",
-      "longitude": "-7.905413114812868"
+      "latitude": 40.65332266541229,
+      "longitude": -7.905413114812868
     }
   }
 ]
