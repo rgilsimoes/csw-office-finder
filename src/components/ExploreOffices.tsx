@@ -42,7 +42,7 @@ const ExploreOffices: React.FC<officeProps> = ({ officeData, selected }) => {
           <h1>{office.name}</h1>
           <p>{office.address}</p>
           <p>
-            <b>{office.location.latitude}</b>
+            <b>{office.location.latitude}</b> / <b>{office.location.longitude}</b>
           </p>
         </IonSlide>
       ))}

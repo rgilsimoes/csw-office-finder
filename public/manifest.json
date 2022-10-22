@@ -1,6 +1,8 @@
 {
-  "short_name": "csw-office-finder",
+  "short_name": "CSW Office Finder",
+  "orientation": "portrait-primary",
   "name": "CSW Office Finder",
+  "description": "Demo App for Tech Day 2022",
   "icons": [
     {
       "src": "assets/icon/favicon.png",
