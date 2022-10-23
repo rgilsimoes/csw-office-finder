@@ -101,7 +101,7 @@ const Tab1: React.FC = () => {
         </IonHeader>
         <IonGrid>
           <IonRow class="ion-justify-content-center">
-            <IonCol size="4">
+            <IonCol sizeMd="2" sizeSm="4" sizeXs="6">
               <IonButton onClick={findMe}>
                 Find Me
                 <IonIcon icon={locate} slot="end" />

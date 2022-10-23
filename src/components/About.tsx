@@ -9,7 +9,7 @@ const About: React.FC = () => {
         <br /> Ionic and Capacitor"
       </p>
       <p>
-        <a href="https://github.com/rgilsimoes/csw-office-finder">Source Code</a>
+        <a href="https://github.com/rgilsimoes/csw-office-finder">Source Code and Instructions</a>
       </p>
       <p>rjsimoes@criticalsoftware.com</p>
     </div>
